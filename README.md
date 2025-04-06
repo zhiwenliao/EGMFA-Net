@@ -1,4 +1,4 @@
-Requirements
+Requirements\n
 torch
 torchvision
 tqdm
